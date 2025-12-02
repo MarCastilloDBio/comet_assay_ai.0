@@ -1,0 +1,33 @@
+# Deep Learning (CPU version - más fácil de instalar)
+torch==2.1.0
+torchvision==0.16.0
+segmentation-models-pytorch==0.3.3
+
+# Image Processing
+opencv-python==4.8.1.78
+scikit-image==0.22.0
+scipy==1.11.4
+Pillow==10.1.0
+albumentations==1.3.1
+
+# Data & Metrics
+numpy==1.24.3
+pandas==2.1.4
+scikit-learn==1.3.2
+
+# Visualization
+matplotlib==3.8.2
+seaborn==0.13.0
+
+# Reporting
+reportlab==4.0.7
+
+# Web App
+streamlit==1.29.0
+
+# Utilities
+tqdm==4.66.1
+PyYAML==6.0.1
+
+# Etiquetado
+labelme==5.3.1
