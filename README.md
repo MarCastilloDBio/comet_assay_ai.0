@@ -622,15 +622,15 @@ Si usas este código en tu investigación, por favor cita:
 - Comunidad de PyTorch por herramientas excelentes
 - Desarrolladores de segmentation-models-pytorch
 - Revisores y testers del proyecto
+- Mi amigo Jhofred Jahat Camacho Gomez, estudiante de ingeniería de sistemas que me apoyó en resolver problemas de los scripts
 
 ---
 
 ## 📞 Contacto
 
-- **Proyecto**: [https://github.com/tu-usuario/comet-assay-ai](https://github.com/tu-usuario/comet-assay-ai)
-- **Issues**: [https://github.com/tu-usuario/comet-assay-ai/issues](https://github.com/tu-usuario/comet-assay-ai/issues)
-- **Email**: tu-email@ejemplo.com
-- **LinkedIn**: [Tu Perfil](https://linkedin.com/in/tu-perfil)
+- **Proyecto**: [https://github.com/tu-usuario/comet-assay-ai](https://github.com/MarCastilloDBio/comet_assay_ai.0)
+- **Email**: macastillod@unal.edu.co
+- **LinkedIn**: [Mi perfil cuando tenga]
 
 ---
 
